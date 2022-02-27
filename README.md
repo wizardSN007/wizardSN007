@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wizardSN007
-- 👀 I’m interested in iot development, web development and gaming development (currently using Unity Engine)
-- 🌱 I’m currently learning Unity engine framework
-- 💞️ I’m looking to collaborate on game development, iot
+- 👀 I’m interested in blochchain, iot development, web development and gaming development (currently using Unity Engine)
+- 🌱 I’m currently learning Blockchain and Unity engine framework
+- 💞️ I’m looking to collaborate on blockchain development, dapp
 - 📫 How to reach me ..
 
 <!---
